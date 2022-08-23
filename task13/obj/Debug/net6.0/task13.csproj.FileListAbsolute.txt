@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\bin\Debug\net6.0\task13.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\bin\Debug\net6.0\task13.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\bin\Debug\net6.0\task13.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\bin\Debug\net6.0\task13.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\refint\task13.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework2\task13\obj\Debug\net6.0\ref\task13.dll
